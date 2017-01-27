@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sistema Académico</string>
+    <string name="numero_cedula">INGRESE NUMERO DE CEDULA</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="escoga_a_un_representado">Escoga a un representado</string>
+    <string name="consultar">CONSULTAR</string>
+    <string name="bienvenido">Bienvenido</string>
+</resources>
